@@ -1,3 +1,5 @@
 Pin number is 5669
 
 Double clik the bat file to run the software.
+
+Extrack th resources file and put it with same directory
